@@ -1,0 +1,6 @@
+files:
+  - source: '**/**.md'
+    ignore:
+      - '**/initial_state.md'
+      - '**/final_state.md'
+    translation: /%locale%/%original_path%/%original_file_name%
