@@ -1,0 +1,14 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Esta lección nos va a ayudar a entrenar la mirada: \n\n* ¿Hay algo
+  que se repite? \n* ¿Cuántas veces? \n\nY también a escribir programas más claros:
+  si quiero repetir una o varias acciones en orden más de una vez, seguramente una
+  repetición me ayudará a programarlo de forma más clara y sencilla."
+manual_evaluation: false
+choices: []
+name: Bailemos, lejos de la gente quisiera volar

@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DanzarEnCirculos
+  inspection: Uses:DarUnaVuelta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:DanzarEnCirculos
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DarUnaVuelta
+  inspection: Not:UsesRepeat

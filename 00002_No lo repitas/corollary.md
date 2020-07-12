@@ -1,0 +1,1 @@
+¡Increíble! :scream: Con solo dos bloques pudimos hacer que la abeja vuele, recorriendo todas las parcelas.  De ahora en más, podremos usar la **estructura de control** `repetir` para indicar cuántas veces ejecutar el mismo código. Para eso,  tendremos que aclarar el número de veces, y los bloques que queremos ejecutar dentro del bloque `repetir`. :wink:

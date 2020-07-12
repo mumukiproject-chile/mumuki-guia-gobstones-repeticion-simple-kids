@@ -1,0 +1,1 @@
+Cuando uses la estructura `repetir` recordá tener cuidado con el orden de los procedimientos y comandos que usás. 
