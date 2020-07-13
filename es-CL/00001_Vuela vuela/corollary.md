@@ -1,1 +1,1 @@
-Como te habrás dado cuenta, ahora en vez de usar el comando `Mover Este`, le decimos `Volar Al Este`. Este es un nuevo _procedimiento_ que te dejamos para que uses cuando quieras que la abeja vuele hacia diferentes direcciones. :wink:
+Como te habrás dado cuenta, ahora, en vez de usar el comando `Mover Este`, le decimos `Volar Al Este`. Este es un nuevo _procedimiento_ que te damos para que uses cuando quieras que la abeja vuele hacia diferentes direcciones. :wink:
