@@ -5,7 +5,7 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Esta actividad tiene un objetivo simple pero muchos aspectos a los que prestar atención: \n\n* ¿Qué hacen los procedimientos primitivos que tengo a disposición? \n* ¿Dónde empieza la abeja? \n* ¿Dónde termina luego de la primera vuelta? \n* ¿Dónde debe comenzar la segunda? \n* ¿Cuál tiene que ser su posición final? \n* Y una vez analizado todo esto, ¿qué acciones se repiten?"
+teacher_info: "Esta actividad tiene un objetivo simple, pero muchos aspectos a los que prestar atención: \n\n* ¿Qué hacen los procedimientos primitivos que tengo a disposición? \n* ¿Dónde empieza la abeja? \n* ¿Dónde termina luego de la primera vuelta? \n* ¿Dónde debe comenzar la segunda? \n* ¿Cuál tiene que ser su posición final? \n* Y una vez analizado todo esto, ¿qué acciones se repiten?"
 manual_evaluation: false
 choices: [ ]
 name: Vueltas, más vueltas
