@@ -3,7 +3,7 @@ name: La danza de la miel
 locale: es
 type: learning
 beta: false
-teacher_info: "En los programas que hicimos en los capítulos anteriores seguramente encontramos tareas que se repetían varias veces seguidas y nos resultaban tediosas o difíciles de programar y de leer. Por eso vamos a explorar un nuevo recurso que podemos utilizar para programar tareas repetitivas. Para pensar: \n\n* ¿Qué acciones necesito repetir? \n* ¿Cuántas veces? \n* ¿Todas las acciones deben repetirse la misma cantidad de veces? \n* ¿El orden en el que las organice modificará el resultado?"
+teacher_info: "En los programas que hicimos en los capítulos anteriores seguramente encontramos tareas que se repetían varias veces seguidas y nos resultaban tediosas o difíciles de programar y de leer. Por eso, vamos a explorar un nuevo recurso que podemos utilizar para programar tareas repetitivas. Para pensar: \n\n* ¿Qué acciones necesito repetir? \n* ¿Cuántas veces? \n* ¿Todas las acciones deben repetirse la misma cantidad de veces? \n* ¿El orden en el que las organice modificará el resultado?"
 language: gobstones
 id_format: "%05d"
 order:
