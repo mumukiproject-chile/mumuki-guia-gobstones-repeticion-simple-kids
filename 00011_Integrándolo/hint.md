@@ -1,1 +1,1 @@
-Te dejamos todos los procedimientos que hiciste hasta acá en **Procedimientos primitivos**. Fijate cómo ordenarlos y cuáles deberían ejecutarse varias veces, creando nuevos procedimientos para dividir el problema.
+Te dejamos todos los procedimientos que hiciste hasta acá en **Procedimientos primitivos**. Fíjate en cómo ordenarlos y cuáles deberían ejecutarse varias veces, creando nuevos procedimientos para dividir el problema.

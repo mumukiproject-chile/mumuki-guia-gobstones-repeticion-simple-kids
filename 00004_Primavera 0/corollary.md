@@ -1,3 +1,3 @@
-¡Muy bien! :tada: Aprendimos a usar la _estructura de control_ `repetir`, con la que es mucho más fácil programar (y _controlar_ :stuck_out_tongue_winking_eye:) aquellas acciones que queremos ejecutar  varias veces :relieved:. Pero vimos también que no todo se repite, y que algunas acciones pueden cambiar o ser diferentes. 
+¡Muy bien! :tada: Aprendimos a usar la _estructura de control_ `repetir`, con la que es mucho más fácil programar (y _controlar_ :stuck_out_tongue_winking_eye:) aquellas acciones que queremos ejecutar  varias veces :relieved:. Pero también vimos que no todo se repite, y que algunas acciones pueden cambiar o ser diferentes.
 
-En este caso tuvimos que volar primero hasta la flor :tulip::honeybee:, y luego repetir la acción de sacar bolitas verdes. De ahora en más tendremos que prestar atención a esto, y ver qué se repite y qué no. :satisfied:
+En este caso tuvimos que volar primero hasta la flor :tulip::honeybee:, y luego repetir la acción de sacar bolitas verdes. De ahora en adelante tendremos que prestar atención a esto, y ver qué se repite y qué no. :satisfied:
