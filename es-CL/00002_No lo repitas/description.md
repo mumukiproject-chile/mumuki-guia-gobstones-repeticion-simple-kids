@@ -5,5 +5,5 @@
 
 Si tan sólo pudiéramos decirle cuántas veces repetir la misma acción… :confused: Te contamos un secreto: en la programación hay una forma de pedir que algo se repita una cierta cantidad de veces. ¡Veamos cómo! :grin:
 
-> Mirá de qué forma este `programa` hace volar a la abeja al Este. ¿Qué cambió?
+> Mira de qué forma este `programa` hace volar a la abeja hacia el este. ¿Qué cambió?
 
