@@ -1,11 +1,19 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Sumamos un nuevo bloque en nuestro programa. A partir de ahora lo encontraremos en la categoría `Estructuras de control`. Las estructuras de control son las que se encargan del curso del programa y aparecen en color amarillo. Para pensar: \n\n* ¿Qué relación encuentro con los bloques y sus colores? ¿Y sus formas? \n* Los colores, las direcciones y los números se encuentran en bloques similares, ¿pero puedo repetir `Rojo` veces? ¿Y repetir `Este` veces? \n\nEl comienzo de los capítulos y la presentación de una nueva herramienta son buenos momentos para detenernos a pensar en estos detalles: \n\n* ¿Dónde se suma un nuevo bloque? \n* ¿Cómo se ve? \n* ¿Con qué tipo de bloques puede encastrarse? \n* ¿Con cuáles de ellos tiene sentido usarlo?"
+teacher_info: "Sumamos un nuevo bloque en nuestro programa. A partir de ahora lo encontraremos
+  en la categoría `Estructuras de control`. Las estructuras de control son las que
+  se encargan del curso del programa y aparecen en color amarillo. Para pensar: \n\n*
+  ¿Qué relación encuentro con los bloques y sus colores? ¿Y sus formas? \n* Los colores,
+  las direcciones y los números se encuentran en bloques similares, ¿pero puedo repetir
+  `Rojo` veces? ¿Y repetir `Este` veces? \n\nEl comienzo de los capítulos y la presentación
+  de una nueva herramienta son buenos momentos para detenernos a pensar en estos detalles:
+  \n\n* ¿Dónde se suma un nuevo bloque? \n* ¿Cómo se ve? \n* ¿Con qué tipo de bloques
+  puede encastrarse? \n* ¿Con cuáles de ellos tiene sentido usarlo?"
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: No lo repitas

@@ -1,0 +1,15 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Llega el momento de combinar todo lo que aprendimos: \n\n* ¿Cuáles
+  son las tareas principales que requiere mi solución? \n* ¿Puedo definir nuevos procedimientos
+  para realizarlas? \n* ¿Qué nombres las describirán mejor? \n* ¿Qué bloques tengo
+  a disposición? \n* ¿Cuáles me serán útiles? \n* ¿Necesito repetir acciones? ¿Cuántas
+  veces?"
+manual_evaluation: false
+choices: []
+name: Integración

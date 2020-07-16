@@ -1,11 +1,13 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Nos toca crear nuestras primeras repeticiones: \n\n* ¿Qué acción o acciones queremos que se repitan? \n* ¿Cuántas veces? \n* ¿La repetición será parte del programa principal o del procedimiento definido?"
+teacher_info: "Nos toca crear nuestras primeras repeticiones: \n\n* ¿Qué acción o
+  acciones queremos que se repitan? \n* ¿Cuántas veces? \n* ¿La repetición será parte
+  del programa principal o del procedimiento definido?"
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Primavera 0

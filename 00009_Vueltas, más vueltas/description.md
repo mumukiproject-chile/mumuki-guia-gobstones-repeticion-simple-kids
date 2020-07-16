@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/toolbox_1553708780521.xml"></gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/toolbox_1553708780521.xml"></gs-toolbox>
 
 Antes te contamos que las abejas hacen dos tipos de danza :dancer:, según qué tan lejos esté el alimento: la _danza en círculos_ y la _danza octana_, que es como un 8 formado por dos danzas circulares, una arriba de la otra. :hushed:
 

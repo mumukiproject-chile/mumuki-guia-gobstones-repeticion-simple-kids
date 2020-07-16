@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/toolbox_1553708780521.xml"></gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/toolbox_1553708780521.xml"></gs-toolbox>
 
 
 ¡Espectacular! Ahora podemos ver cómo se moverá nuestra abeja. Pero si quisiéramos que recorriera muchas parcelas más (como 10 o 50) tendríamos que usar la misma cantidad de bloques `Volar Al`. :sweat_smile:
