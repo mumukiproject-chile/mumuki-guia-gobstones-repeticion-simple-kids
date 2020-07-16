@@ -4,4 +4,4 @@ En el ejercicio anterior vimos cómo nuestra abeja hace la danza circular, dando
 
 Pero el procedimiento para lograr eso tenía muchos bloques repetidos y se veía muy largo :weary:. Veamos cómo separar todo eso en alguna tarea más pequeña y simple de entender. :smile:
 
-> Usando los bloques que están dentro de `Danzar En Circulos`, definí con ellos el procedimiento `Dar Una Vuelta`. Luego, invocalo en `Danzar En Circulos` para que dé 3 vueltas.
+> Usando los bloques que están dentro de `Danzar En Circulos`, define con ellos el procedimiento `Dar Una Vuelta`. Luego, invócalo en `Danzar En Circulos` para que dé 3 vueltas.
