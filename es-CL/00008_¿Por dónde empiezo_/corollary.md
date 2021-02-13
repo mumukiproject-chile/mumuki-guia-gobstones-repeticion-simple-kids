@@ -1,0 +1,1 @@
+¡Muy bien! :tada: Fíjate qué chiquitito el cambio que hiciste, pero qué diferente el resultado obtenido :relaxed:. Eso significa que en la estructura `repetir` también es muy importante el orden de los comandos. :wink:
